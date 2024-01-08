@@ -1,7 +1,7 @@
 // Inicio Script para redirecionamento
 
 function redirecionamento(){ 
-    var appURL = 'https://play.google.com/store/apps/details?id=com.startapp.appbarber&hl=pt_BR&gl=US'
+    var appURL = 'https://play.google.com/store/apps/details?id=br.com.starapp.appbarbercli&hl=en_US'
 
     window.open(appURL, '_blank');
 }
